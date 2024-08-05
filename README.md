@@ -1,1 +1,2 @@
-# MLSAassignment.github.io
+# Encryption Algorithm implementations
+# Course Project
